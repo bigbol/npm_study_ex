@@ -1,0 +1,14 @@
+{
+  "name": "npm_study_ex",
+  "version": "1.0.0",
+  "description": "test travis",
+  "main": "hello.js",
+  "scripts": {
+    "test":"jasmine"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine": "^2.6.0"
+  }
+}
